@@ -88,16 +88,7 @@ git clone https://github.com/yourusername/Gopuff-Dashboard.git
 
 ---
 
-## 📷 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
-
-```text
-Images/
-└── Dashboard.png
-```
-
----
 
 ## 💡 Business Insights
 
